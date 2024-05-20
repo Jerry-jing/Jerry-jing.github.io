@@ -1,6 +1,5 @@
 ---
 title: Incremental Learning with Unlabeled Data in the Wild
-author: Jing
 categories: [论文阅读]
 date: 2024-05-05
 tags: [持续学习]
